@@ -1,0 +1,6 @@
+# ignore file types
+*.pyc
+.env
+.vscode
+
+logs/
