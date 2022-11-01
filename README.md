@@ -13,7 +13,7 @@ The paper is currently under review, but a preprint is already [available on Ear
 - `rmh-cycle-analyses.ipynb` -- This Jupyter notebook contains the consistency analyses.
 - `data/` -- This folder contains all data used in the study, as well as csv files with the collected ratings from study phases 1 and 2.
 
-The simulated and observed hydrographs used in this study are from the ["The Great Lakes Runoff Intercomparison Project Phase 4: the Great Lakes (GRIP-GL)"](https://doi.org/10.5194/hess-26-3537-2022).
+The simulated and observed hydrographs used in this study are from the ["The Great Lakes Runoff Intercomparison Project Phase 4: the Great Lakes (GRIP-GL)"](https://doi.org/10.5194/hess-26-3537-2022). The full data repository for GRIP-GL is available [here](https://doi.org/10.20383/103.0598).
 
 ## Contact
 
