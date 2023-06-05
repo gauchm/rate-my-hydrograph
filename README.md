@@ -1,7 +1,6 @@
 # In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance
 
-This repository contains all code, data, and analyses for the paper [**"In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance"**](https://eartharxiv.org/repository/view/4586/).
-The paper is currently under review, but a preprint is already [available on EarthArXiv](https://eartharxiv.org/repository/view/4586/).
+This repository contains all code, data, and analyses for the paper [**"In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance"**](https://doi.org/10.1029/2022WR033918) published in WRR.
 
 ## Contents of this repository
 
@@ -25,9 +24,12 @@ Martin Gauch: gauch (at) ml.jku.at
 @article{gauch2022metrics,
     author = {Gauch, Martin and Kratzert, Frederik and Gilon, Oren and Gupta, Hoshin and Mai, Juliane and Nearing, Grey and Tolson, Bryan and Hochreiter, Sepp and Klotz, Daniel},
     title = {In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance},
-    publisher = {EarthArXiv},
-    year = {2022},
-    url = {https://eartharxiv.org/repository/view/4586/},
-    doi = {10.31223/X52938}
+    journal = {Water Resources Research},
+    year = {2023},
+    volume = {59},
+    number = {6},
+    pages = {e2022WR033918},
+    url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022WR033918},
+    doi = {10.1029/2022WR033918}
 }
 ```
