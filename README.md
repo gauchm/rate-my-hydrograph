@@ -21,7 +21,7 @@ Martin Gauch: gauch (at) ml.jku.at
 ## Citation
 
 ```bib
-@article{gauch2022metrics,
+@article{gauch2023metrics,
     author = {Gauch, Martin and Kratzert, Frederik and Gilon, Oren and Gupta, Hoshin and Mai, Juliane and Nearing, Grey and Tolson, Bryan and Hochreiter, Sepp and Klotz, Daniel},
     title = {In Defense of Metrics: Metrics Sufficiently Encode Typical Human Preferences Regarding Hydrological Model Performance},
     journal = {Water Resources Research},
